@@ -8,3 +8,4 @@
   ## AUTORES 
 
   Estefania herrera patiño
+  mariana herrera patiño
