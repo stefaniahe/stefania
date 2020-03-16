@@ -1,0 +1,42 @@
+ body{
+text-align: center;
+ }
+
+#contenedor{
+    background-color: white;
+    width: fit-content;
+    margin: 300px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+..
+
+
+
+
+input{
+    border:30px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(115, 108, 180);
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+}
+
+#botonlogin{
+    background-color: rgb(235, 230, 230);
+    border:0;
+    width: 200px;
+    height: 50px;
+    color: white;
+}
+
+
+#container{
+    background-color: thistle;
+    border: 0;
+    height: 50px;
+}
